@@ -1,7 +1,7 @@
 /**********************************************************************************************************************
  *Archivo: UserAdmin.java																						          *
  *Autores: 																											  *
- *		 Jorge Ivan Estrada R.																						  *
+ *		 Jorge Ivan Estrada R.								 Ivan Estrada Tambien estuvo aqui.															  *
  *       cod: 0761868																								  *
  *       Diana Marcela Lopez Q. 																					  *
  *       cod: 0761833																								  *
